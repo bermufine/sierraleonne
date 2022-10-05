@@ -1,2 +1,2 @@
 # sierraleonne
-{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Fashion MidiNight Secret est une chaine televisee au Fashion","sourceCam":["http://eja.tv/?9c35f05e7653636286d3888ed5247381.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM0MzUyOTZf/fashionmidi.png","titleCam":"FASHION TV"}]}]}
+{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"AYV est une chaine televisee de Sierra Leonne","sourceCam":["http://eja.tv/?16220fe78691b2d42e85d21c5f18f336.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM0MzUyODhf/ayv.png","titleCam":"AYV TV"}]}]}
